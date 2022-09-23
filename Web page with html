@@ -11,7 +11,7 @@
     		<h1 class="titulo-principal">Coffee Shop & Code</h1>
     	</header>
     		
-   		<img id="banner" src="banner.jpg">
+   		<img id="cafe" src="cafe.jpg">
 	   		<div class= "principal">
 
 	        <h2 class="titulo-centralizado">Sobre a Coffee Shop & Code</h2>
